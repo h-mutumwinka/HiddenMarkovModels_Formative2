@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
+3,SM-G973F,1792858380063,2026-10-24_16-13-00,Africa/Kigali,android,1.68,e441e436-e2c8-4dd9-a5cc-f4a3741bbb7b,Accelerometer|Gyroscope|Annotation|TotalAcceleration|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10||10|10|10,false,31

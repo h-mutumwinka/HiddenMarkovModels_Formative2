@@ -1,6 +1,0 @@
-held-out session,test windows,BW iterations,HMM accuracy,emissions-only accuracy,sens Still,sens Standing,sens Walking,sens Jumping
-1,150,16,0.9933,0.96,1.0,0.9767,1.0,1.0
-2,116,4,0.9914,0.9914,1.0,0.9583,1.0,1.0
-3,137,6,0.9927,0.9927,1.0,1.0,1.0,0.973
-4,124,6,1.0,1.0,1.0,1.0,1.0,1.0
-5,137,4,1.0,1.0,1.0,1.0,1.0,1.0
